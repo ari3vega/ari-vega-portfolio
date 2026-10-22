@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Campus Wellness Fair",
+    "category": "Web",
+    "description": "A responsive wellness fair website with a personal activity plan, live activity count, latest-item highlighting, and a custom theme toggle.",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap"
+    ],
+    "status": "Coursework"
+  },
+  {
+    "title": "OU Tech Club",
+    "category": "Web",
+    "description": "A club website with a membership cost calculator and an interactive announcement list.",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap"
+    ],
+    "status": "Coursework"
+  },
+  {
+    "title": "Airline Delay Analysis",
+    "category": "Data",
+    "description": "Externship analysis of approximately 14 million airline records using predictive models and visualizations to explore delays and operational performance.",
+    "technologies": [
+      "Python",
+      "Random Forest",
+      "Power BI",
+      "Google Colab"
+    ],
+    "status": "Externship"
+  },
+  {
+    "title": "Workforce Analytics",
+    "category": "Data",
+    "description": "Internship work analyzing staffing and scheduling data through automated workflows and dashboards to surface workforce trends.",
+    "technologies": [
+      "Python",
+      "Power BI",
+      "Operational analysis"
+    ],
+    "status": "Internship"
+  },
+  {
+    "title": "Travel Budget Planner",
+    "category": "Programming",
+    "description": "A planned calculator for comparing transportation, lodging, and daily expenses across travel scenarios.",
+    "technologies": [
+      "C#",
+      "Input validation",
+      "Calculations"
+    ],
+    "status": "Planned project"
+  },
+  {
+    "title": "Football Performance Dashboard",
+    "category": "Data",
+    "description": "A planned dashboard exploring team performance trends through clear comparisons and interactive visualizations.",
+    "technologies": [
+      "Power BI",
+      "Data visualization"
+    ],
+    "status": "Planned project"
+  }
+]
